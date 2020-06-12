@@ -12,10 +12,12 @@ Part 1:
   - installing TensorFlow Object Detection API 
   - gathering and labelling data
   - converting the dataset to TFRecord format
+  
 Part 2:
   - configuring the training process
   - training and evaluating the model
   - run inference for frozen graph
+  
 Part 3:
   - exporting the model to TFLite and compiling it for Edge TPU
   - run inference for TFLite and compiled for Edge TPU format
